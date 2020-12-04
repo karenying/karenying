@@ -2,9 +2,9 @@
 
 Welcome to where I beep boop 👩🏻‍💻 
 
-- [`karenying.com`](http://wwww.karenying.com/)
+- [`karenying.com`](https://karenying.com/)
 
-- [`blog.karenying.com`](http://www.blog.karenying.com/)
+- [`blog.karenying.com`](https://blog.karenying.com/)
 
 
 <!--
